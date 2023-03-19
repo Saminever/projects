@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915205598226",
+    "project_id": "sinup-4127a",
+    "storage_bucket": "sinup-4127a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915205598226:android:c2071786371504a5fabccb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bing_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915205598226-ftfu7u8uo86mdifvm2ibto5d6bccai95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6zCppEVbIgMP7FJ4kRf8Ext9BALDvVqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915205598226-ftfu7u8uo86mdifvm2ibto5d6bccai95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
